@@ -1,0 +1,11 @@
+{
+  "name": "lowestcommonfactor",
+  "version": "1.0.0",
+  "description": "Program to find the lowest common factor of two numbers",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha test/test_app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
